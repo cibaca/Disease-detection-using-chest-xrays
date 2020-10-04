@@ -1,6 +1,6 @@
 # Aurora - Blazing fast disease detection using Chest X-rays
 
-**Project Repository Link --> https://github.com/ashishbairwa/Disease-detection-using-chest-xrays/**
+**Project Repository Link --> https://github.com/cibaca/Disease-detection-using-chest-xrays**
 
 The project utilizes a new chest X-ray database, namely “ChestX-ray8”, to build a lung disease detection system. The ChestX-ray8
 comprises 108,948 frontal view X-ray images of 
